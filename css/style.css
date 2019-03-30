@@ -5,3 +5,7 @@
 html {
   overflow: none;
 }
+
+body {
+    padding-top: 3rem;
+}
