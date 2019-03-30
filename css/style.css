@@ -5,26 +5,3 @@
 html {
   overflow: none;
 }
-
-.bg-icon{
-  padding: 1rem;
-  background-color: gray !important;
-}
-
-.carousel-control-prev-icon, .carousel-control-next-icon{
-}
-
-.blue {
-  background-color: #2196f3;
-  color: white;
-}
-
-a:link.blue, a:visited, a:active{
-  color: white;
-}
-
-.myCarousel {
-  margin-left: auto;
-  margin-right: auto;
-  /*width: 95%;*/
-}
